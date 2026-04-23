@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Mohit Yadav
-**Aspiring Fullstack Devloper**
+**Aspiring Software Engineer**
 
-- 🔭 **I’m currently practising on:** Frontend
-- 🌱 **I’m currently learning:** Backend
-- 👯 **I’m looking to collaborate on:** Frontend React project
+- 🔭 **I’m currently practising on:** MERN Stack 
+- 🌱 **I’m currently learning:** AI/ML
+- 👯 **I’m looking to collaborate on:** MERN/AI
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
